@@ -1,1 +1,5 @@
-	Este é outro exemplo de um ficheiro de texto...
+Este é outro exemplo de um ficheiro de texto...
+
+Neste ficheiro é pedido para realizar mais algumas alterações
+
+Por isso aqui estão elas
