@@ -1,0 +1,5 @@
+Neste esxercício é pedido para realizar algum text
+
+Este esxercício pertence à ficha prática 2
+
+Sendo assim aqui estão algumas alterações do ficheiro
